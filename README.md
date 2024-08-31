@@ -1,3 +1,10 @@
+![Output 1](https://github.com/user-attachments/assets/7f548394-8b1b-4959-861c-5cc067a6d1bf)
+
+
+![Output 2](https://github.com/user-attachments/assets/ac9e57b5-0c62-46c4-b8e3-12bd6c1f304c)
+
+
+
 # JavaScript Calculator Web App
 
 This repository contains a simple calculator web app implemented using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division of two operands.
